@@ -42,7 +42,7 @@ curl --location 'localhost:8080/stats'
 **Areas to improve upon:**
         1. We can make the time window taken to calculate the stats as configurable value w.r.t. time unit 
            and time value.
-        2. 
+
 
 
 
